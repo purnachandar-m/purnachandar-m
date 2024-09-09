@@ -1,16 +1,46 @@
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<h1 align="center">Hi, I'm Motam Purnachandar</h1>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/purnachandar_m"><img src="https://img.shields.io/static/v1?label=HackerRank&message=purnachandar_m&style=flat-square&logo=HackerRank&color=blue" alt="HackerRank logo" /></a>
+  <a href="https://www.linkedin.com/in/purnachandar-m/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=purnachandar-m&style=flat-square&logo=LinkedIn&color=blue" alt="LinkedIn logo" /></a>
+  <a href="mailto:motampurnachandhar@gmail.com"><img src="https://img.shields.io/static/v1?label=E-Mail&message=motampurnachandhar@gmail.com&style=flat-square&logo=Mail.Ru&color=blue" alt="E-Mail logo" /></a>
+</p>
+
+## About me
+ - Motam Purnachadar is an aspiring IT professional pursuing a B.Tech at CVR College of Engineering. He specializes in programming, web development, and computer networks, with a focus on creating user-centric applications.
+ - His commitment to learning is showcased by his leadership in the Ingenuity Club and multiple certifications, including Core Java and Cyber Security. Motam's innovative approach drives his passion for developing solutions that align with business needs and enhance user experiences.
+
+- Practicing DSA at [LeetCode](https://leetcode.com/u/purna_chandar/).
+
+## Tech I use
+- Programming Languages:
+Java
+Python
+C
+JavaScript
+- Frontend Technologies:
+HTML
+CSS
+Bootstrap
+React.js
+- Backend Technologies:
+MongoDB,
+Express,
+Nodejs
+- Fundamentals:
+Computer Networks
+Data Structures and Algorithms (DSA)
+Operating Systems
+Database Management System (DBMS)
+SQL
+- Tools/Platforms:
+VS Code,
+GitHub
+
+## Connect with me on
+- [LinkedIn](https://www.linkedin.com/in/purnachandar-m/)
+- [Email](mailto:motampurnachandhar@gmail.com)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=purnachandar-m&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=purnachandar-m&theme=dark&hide_border=false)<br/>
